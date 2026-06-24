@@ -1,7 +1,7 @@
 import React, { useContext, useMemo, useState } from 'react';
 import { Clock3, Flame, Info, Trophy } from 'lucide-react';
 import { BracketContext } from '../store/BracketContext';
-import { generateGroupFixtures } from '../logic/engine';
+import { generateGroupFixtures, compareThirdPlaceTeams } from '../logic/engine';
 import { rankRemainingGroupMatches } from '../logic/watchability';
 import { Reorder } from 'framer-motion';
 import Squircle from './Squircle';
@@ -35,17 +35,32 @@ export default function GroupStage() {
             simulationTrials: state.superSimStats?.trials
         })
         : [], [groups, isLive, standings, state.groupFixtureMeta, state.groupScores, state.settings.thirdPlaceQualifiers, state.superSimStats]);
-    const thirdPlaceRows = groupIds.map(groupId => {
-        const team = standings[groupId]?.[2];
-        const manuallySelected = manualThirdPlaceGroupSet.has(groupId);
-        return {
-            groupId,
-            team,
-            advances: team ? qualifiedThirdIds.has(team.id) : false,
-            autoAdvances: team ? automaticThirdIds.has(team.id) : false,
-            manuallySelected
-        };
-    });
+    const thirdPlaceRows = useMemo(() => {
+        const rows = groupIds.map(groupId => {
+            const team = standings[groupId]?.[2];
+            const manuallySelected = manualThirdPlaceGroupSet.has(groupId);
+            return {
+                groupId,
+                team,
+                advances: team ? qualifiedThirdIds.has(team.id) : false,
+                autoAdvances: team ? automaticThirdIds.has(team.id) : false,
+                manuallySelected
+            };
+        });
+
+        return rows.sort((a, b) => {
+            if (!a.team && !b.team) {
+                return a.groupId.localeCompare(b.groupId);
+            }
+            if (!a.team) return 1;
+            if (!b.team) return -1;
+            
+            const cmp = compareThirdPlaceTeams(a.team, b.team);
+            if (cmp !== 0) return cmp;
+            
+            return a.groupId.localeCompare(b.groupId);
+        });
+    }, [groupIds, standings, manualThirdPlaceGroupSet, qualifiedThirdIds, automaticThirdIds]);
 
     const compactMode = true;
     const localNavItems = [
