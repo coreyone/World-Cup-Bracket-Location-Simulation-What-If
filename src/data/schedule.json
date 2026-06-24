@@ -1,0 +1,500 @@
+{
+    "knockout": [
+        {
+            "id": 73,
+            "round": 32,
+            "home": {
+                "type": "group_runner_up",
+                "group": "A"
+            },
+            "away": {
+                "type": "group_runner_up",
+                "group": "B"
+            },
+            "stadium": "S_LA",
+            "day": "2026-06-28"
+        },
+        {
+            "id": 74,
+            "round": 32,
+            "home": {
+                "type": "group_winner",
+                "group": "E"
+            },
+            "away": {
+                "type": "group_third",
+                "options": [
+                    "A",
+                    "B",
+                    "C",
+                    "D",
+                    "F"
+                ]
+            },
+            "stadium": "S_BOS",
+            "day": "2026-06-29"
+        },
+        {
+            "id": 75,
+            "round": 32,
+            "home": {
+                "type": "group_winner",
+                "group": "F"
+            },
+            "away": {
+                "type": "group_runner_up",
+                "group": "C"
+            },
+            "stadium": "S_MTY",
+            "day": "2026-06-29"
+        },
+        {
+            "id": 76,
+            "round": 32,
+            "home": {
+                "type": "group_winner",
+                "group": "C"
+            },
+            "away": {
+                "type": "group_runner_up",
+                "group": "F"
+            },
+            "stadium": "S_HOU",
+            "day": "2026-06-29"
+        },
+        {
+            "id": 77,
+            "round": 32,
+            "home": {
+                "type": "group_winner",
+                "group": "I"
+            },
+            "away": {
+                "type": "group_third",
+                "options": [
+                    "C",
+                    "D",
+                    "F",
+                    "G",
+                    "H"
+                ]
+            },
+            "stadium": "S_NYNJ",
+            "day": "2026-06-30"
+        },
+        {
+            "id": 78,
+            "round": 32,
+            "home": {
+                "type": "group_runner_up",
+                "group": "E"
+            },
+            "away": {
+                "type": "group_runner_up",
+                "group": "I"
+            },
+            "stadium": "S_DAL",
+            "day": "2026-06-30"
+        },
+        {
+            "id": 79,
+            "round": 32,
+            "home": {
+                "type": "group_winner",
+                "group": "A"
+            },
+            "away": {
+                "type": "group_third",
+                "options": [
+                    "C",
+                    "E",
+                    "F",
+                    "H",
+                    "I"
+                ]
+            },
+            "stadium": "S_MEX",
+            "day": "2026-06-30"
+        },
+        {
+            "id": 80,
+            "round": 32,
+            "home": {
+                "type": "group_winner",
+                "group": "L"
+            },
+            "away": {
+                "type": "group_third",
+                "options": [
+                    "E",
+                    "H",
+                    "I",
+                    "J",
+                    "K"
+                ]
+            },
+            "stadium": "S_ATL",
+            "day": "2026-07-01"
+        },
+        {
+            "id": 81,
+            "round": 32,
+            "home": {
+                "type": "group_winner",
+                "group": "D"
+            },
+            "away": {
+                "type": "group_third",
+                "options": [
+                    "B",
+                    "E",
+                    "F",
+                    "I",
+                    "J"
+                ]
+            },
+            "stadium": "S_SF",
+            "day": "2026-07-01"
+        },
+        {
+            "id": 82,
+            "round": 32,
+            "home": {
+                "type": "group_winner",
+                "group": "G"
+            },
+            "away": {
+                "type": "group_third",
+                "options": [
+                    "A",
+                    "E",
+                    "H",
+                    "I",
+                    "J"
+                ]
+            },
+            "stadium": "S_SEA",
+            "day": "2026-07-01"
+        },
+        {
+            "id": 83,
+            "round": 32,
+            "home": {
+                "type": "group_runner_up",
+                "group": "K"
+            },
+            "away": {
+                "type": "group_runner_up",
+                "group": "L"
+            },
+            "stadium": "S_TOR",
+            "day": "2026-07-02"
+        },
+        {
+            "id": 84,
+            "round": 32,
+            "home": {
+                "type": "group_winner",
+                "group": "H"
+            },
+            "away": {
+                "type": "group_runner_up",
+                "group": "J"
+            },
+            "stadium": "S_LA",
+            "day": "2026-07-02"
+        },
+        {
+            "id": 85,
+            "round": 32,
+            "home": {
+                "type": "group_winner",
+                "group": "B"
+            },
+            "away": {
+                "type": "group_third",
+                "options": [
+                    "E",
+                    "F",
+                    "G",
+                    "I",
+                    "J"
+                ]
+            },
+            "stadium": "S_VAN",
+            "day": "2026-07-02"
+        },
+        {
+            "id": 86,
+            "round": 32,
+            "home": {
+                "type": "group_winner",
+                "group": "J"
+            },
+            "away": {
+                "type": "group_runner_up",
+                "group": "H"
+            },
+            "stadium": "S_MIA",
+            "day": "2026-07-03"
+        },
+        {
+            "id": 87,
+            "round": 32,
+            "home": {
+                "type": "group_winner",
+                "group": "K"
+            },
+            "away": {
+                "type": "group_third",
+                "options": [
+                    "D",
+                    "E",
+                    "I",
+                    "J",
+                    "L"
+                ]
+            },
+            "stadium": "S_KC",
+            "day": "2026-07-03"
+        },
+        {
+            "id": 88,
+            "round": 32,
+            "home": {
+                "type": "group_runner_up",
+                "group": "D"
+            },
+            "away": {
+                "type": "group_runner_up",
+                "group": "G"
+            },
+            "stadium": "S_DAL",
+            "day": "2026-07-03"
+        },
+        {
+            "id": 89,
+            "round": 16,
+            "home": {
+                "type": "winner",
+                "match": 74
+            },
+            "away": {
+                "type": "winner",
+                "match": 77
+            },
+            "stadium": "S_PHI",
+            "day": "2026-07-04"
+        },
+        {
+            "id": 90,
+            "round": 16,
+            "home": {
+                "type": "winner",
+                "match": 73
+            },
+            "away": {
+                "type": "winner",
+                "match": 75
+            },
+            "stadium": "S_HOU",
+            "day": "2026-07-04"
+        },
+        {
+            "id": 91,
+            "round": 16,
+            "home": {
+                "type": "winner",
+                "match": 76
+            },
+            "away": {
+                "type": "winner",
+                "match": 78
+            },
+            "stadium": "S_NYNJ",
+            "day": "2026-07-05"
+        },
+        {
+            "id": 92,
+            "round": 16,
+            "home": {
+                "type": "winner",
+                "match": 79
+            },
+            "away": {
+                "type": "winner",
+                "match": 80
+            },
+            "stadium": "S_MEX",
+            "day": "2026-07-05"
+        },
+        {
+            "id": 93,
+            "round": 16,
+            "home": {
+                "type": "winner",
+                "match": 83
+            },
+            "away": {
+                "type": "winner",
+                "match": 84
+            },
+            "stadium": "S_DAL",
+            "day": "2026-07-06"
+        },
+        {
+            "id": 94,
+            "round": 16,
+            "home": {
+                "type": "winner",
+                "match": 81
+            },
+            "away": {
+                "type": "winner",
+                "match": 82
+            },
+            "stadium": "S_SEA",
+            "day": "2026-07-06"
+        },
+        {
+            "id": 95,
+            "round": 16,
+            "home": {
+                "type": "winner",
+                "match": 86
+            },
+            "away": {
+                "type": "winner",
+                "match": 88
+            },
+            "stadium": "S_ATL",
+            "day": "2026-07-07"
+        },
+        {
+            "id": 96,
+            "round": 16,
+            "home": {
+                "type": "winner",
+                "match": 85
+            },
+            "away": {
+                "type": "winner",
+                "match": 87
+            },
+            "stadium": "S_VAN",
+            "day": "2026-07-07"
+        },
+        {
+            "id": 97,
+            "round": 8,
+            "home": {
+                "type": "winner",
+                "match": 89
+            },
+            "away": {
+                "type": "winner",
+                "match": 90
+            },
+            "stadium": "S_BOS",
+            "day": "2026-07-09"
+        },
+        {
+            "id": 98,
+            "round": 8,
+            "home": {
+                "type": "winner",
+                "match": 93
+            },
+            "away": {
+                "type": "winner",
+                "match": 94
+            },
+            "stadium": "S_LA",
+            "day": "2026-07-10"
+        },
+        {
+            "id": 99,
+            "round": 8,
+            "home": {
+                "type": "winner",
+                "match": 91
+            },
+            "away": {
+                "type": "winner",
+                "match": 92
+            },
+            "stadium": "S_MIA",
+            "day": "2026-07-11"
+        },
+        {
+            "id": 100,
+            "round": 8,
+            "home": {
+                "type": "winner",
+                "match": 95
+            },
+            "away": {
+                "type": "winner",
+                "match": 96
+            },
+            "stadium": "S_KC",
+            "day": "2026-07-11"
+        },
+        {
+            "id": 101,
+            "round": 4,
+            "home": {
+                "type": "winner",
+                "match": 97
+            },
+            "away": {
+                "type": "winner",
+                "match": 98
+            },
+            "stadium": "S_DAL",
+            "day": "2026-07-14"
+        },
+        {
+            "id": 102,
+            "round": 4,
+            "home": {
+                "type": "winner",
+                "match": 99
+            },
+            "away": {
+                "type": "winner",
+                "match": 100
+            },
+            "stadium": "S_ATL",
+            "day": "2026-07-15"
+        },
+        {
+            "id": 103,
+            "round": 3,
+            "home": {
+                "type": "runner_up_match",
+                "match": 101
+            },
+            "away": {
+                "type": "runner_up_match",
+                "match": 102
+            },
+            "stadium": "S_MIA",
+            "day": "2026-07-18"
+        },
+        {
+            "id": 104,
+            "round": 2,
+            "home": {
+                "type": "winner",
+                "match": 101
+            },
+            "away": {
+                "type": "winner",
+                "match": 102
+            },
+            "stadium": "S_NYNJ",
+            "day": "2026-07-19"
+        }
+    ]
+}

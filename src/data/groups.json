@@ -1,0 +1,316 @@
+{
+    "groups": {
+        "A": [
+            {
+                "id": "MEX",
+                "name": "Mexico",
+                "rating": 1650,
+                "confederation": "CONCACAF"
+            },
+            {
+                "id": "RSA",
+                "name": "South Africa",
+                "rating": 1450,
+                "confederation": "CAF"
+            },
+            {
+                "id": "KOR",
+                "name": "South Korea",
+                "rating": 1550,
+                "confederation": "AFC"
+            },
+            {
+                "id": "CZE",
+                "name": "Czechia",
+                "rating": 1520,
+                "confederation": "UEFA"
+            }
+        ],
+        "B": [
+            {
+                "id": "CAN",
+                "name": "Canada",
+                "rating": 1500,
+                "confederation": "CONCACAF"
+            },
+            {
+                "id": "SUI",
+                "name": "Switzerland",
+                "rating": 1600,
+                "confederation": "UEFA"
+            },
+            {
+                "id": "QAT",
+                "name": "Qatar",
+                "rating": 1400,
+                "confederation": "AFC"
+            },
+            {
+                "id": "BIH",
+                "name": "Bosnia and Herzegovina",
+                "rating": 1500,
+                "confederation": "UEFA"
+            }
+        ],
+        "C": [
+            {
+                "id": "BRA",
+                "name": "Brazil",
+                "rating": 1850,
+                "confederation": "CONMEBOL"
+            },
+            {
+                "id": "MAR",
+                "name": "Morocco",
+                "rating": 1650,
+                "confederation": "CAF"
+            },
+            {
+                "id": "SCO",
+                "name": "Scotland",
+                "rating": 1480,
+                "confederation": "UEFA"
+            },
+            {
+                "id": "HAI",
+                "name": "Haiti",
+                "rating": 1300,
+                "confederation": "CONCACAF"
+            }
+        ],
+        "D": [
+            {
+                "id": "USA",
+                "name": "USA",
+                "rating": 1680,
+                "confederation": "CONCACAF"
+            },
+            {
+                "id": "PAR",
+                "name": "Paraguay",
+                "rating": 1450,
+                "confederation": "CONMEBOL"
+            },
+            {
+                "id": "AUS",
+                "name": "Australia",
+                "rating": 1500,
+                "confederation": "AFC"
+            },
+            {
+                "id": "TUR",
+                "name": "Türkiye",
+                "rating": 1580,
+                "confederation": "UEFA"
+            }
+        ],
+        "E": [
+            {
+                "id": "GER",
+                "name": "Germany",
+                "rating": 1750,
+                "confederation": "UEFA"
+            },
+            {
+                "id": "CUW",
+                "name": "Curaçao",
+                "rating": 1250,
+                "confederation": "CONCACAF"
+            },
+            {
+                "id": "CIV",
+                "name": "Ivory Coast",
+                "rating": 1500,
+                "confederation": "CAF"
+            },
+            {
+                "id": "ECU",
+                "name": "Ecuador",
+                "rating": 1550,
+                "confederation": "CONMEBOL"
+            }
+        ],
+        "F": [
+            {
+                "id": "NED",
+                "name": "Netherlands",
+                "rating": 1720,
+                "confederation": "UEFA"
+            },
+            {
+                "id": "JPN",
+                "name": "Japan",
+                "rating": 1620,
+                "confederation": "AFC"
+            },
+            {
+                "id": "TUN",
+                "name": "Tunisia",
+                "rating": 1500,
+                "confederation": "CAF"
+            },
+            {
+                "id": "SWE",
+                "name": "Sweden",
+                "rating": 1580,
+                "confederation": "UEFA"
+            }
+        ],
+        "G": [
+            {
+                "id": "BEL",
+                "name": "Belgium",
+                "rating": 1780,
+                "confederation": "UEFA"
+            },
+            {
+                "id": "EGY",
+                "name": "Egypt",
+                "rating": 1500,
+                "confederation": "CAF"
+            },
+            {
+                "id": "IRN",
+                "name": "Iran",
+                "rating": 1550,
+                "confederation": "AFC"
+            },
+            {
+                "id": "NZL",
+                "name": "New Zealand",
+                "rating": 1400,
+                "confederation": "OFC"
+            }
+        ],
+        "H": [
+            {
+                "id": "ESP",
+                "name": "Spain",
+                "rating": 1750,
+                "confederation": "UEFA"
+            },
+            {
+                "id": "CPV",
+                "name": "Cape Verde",
+                "rating": 1380,
+                "confederation": "CAF"
+            },
+            {
+                "id": "KSA",
+                "name": "Saudi Arabia",
+                "rating": 1450,
+                "confederation": "AFC"
+            },
+            {
+                "id": "URU",
+                "name": "Uruguay",
+                "rating": 1650,
+                "confederation": "CONMEBOL"
+            }
+        ],
+        "I": [
+            {
+                "id": "FRA",
+                "name": "France",
+                "rating": 1840,
+                "confederation": "UEFA"
+            },
+            {
+                "id": "SEN",
+                "name": "Senegal",
+                "rating": 1600,
+                "confederation": "CAF"
+            },
+            {
+                "id": "NOR",
+                "name": "Norway",
+                "rating": 1500,
+                "confederation": "UEFA"
+            },
+            {
+                "id": "IRQ",
+                "name": "Iraq",
+                "rating": 1450,
+                "confederation": "AFC"
+            }
+        ],
+        "J": [
+            {
+                "id": "ARG",
+                "name": "Argentina",
+                "rating": 1850,
+                "confederation": "CONMEBOL"
+            },
+            {
+                "id": "ALG",
+                "name": "Algeria",
+                "rating": 1500,
+                "confederation": "CAF"
+            },
+            {
+                "id": "AUT",
+                "name": "Austria",
+                "rating": 1520,
+                "confederation": "UEFA"
+            },
+            {
+                "id": "JOR",
+                "name": "Jordan",
+                "rating": 1350,
+                "confederation": "AFC"
+            }
+        ],
+        "K": [
+            {
+                "id": "POR",
+                "name": "Portugal",
+                "rating": 1750,
+                "confederation": "UEFA"
+            },
+            {
+                "id": "COL",
+                "name": "Colombia",
+                "rating": 1620,
+                "confederation": "CONMEBOL"
+            },
+            {
+                "id": "UZB",
+                "name": "Uzbekistan",
+                "rating": 1400,
+                "confederation": "AFC"
+            },
+            {
+                "id": "COD",
+                "name": "DR Congo",
+                "rating": 1500,
+                "confederation": "CAF"
+            }
+        ],
+        "L": [
+            {
+                "id": "ENG",
+                "name": "England",
+                "rating": 1800,
+                "confederation": "UEFA"
+            },
+            {
+                "id": "CRO",
+                "name": "Croatia",
+                "rating": 1650,
+                "confederation": "UEFA"
+            },
+            {
+                "id": "GHA",
+                "name": "Ghana",
+                "rating": 1450,
+                "confederation": "CAF"
+            },
+            {
+                "id": "PAN",
+                "name": "Panama",
+                "rating": 1400,
+                "confederation": "CONCACAF"
+            }
+        ]
+    }
+}

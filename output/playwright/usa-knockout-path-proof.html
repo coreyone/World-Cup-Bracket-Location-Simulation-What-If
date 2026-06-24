@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>USA World Cup Knockout Path — Statistical Proof</title>
+  <style>
+    @page { size: 1600px auto; margin: 0; }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: #e8edf1; color: #11253a; font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    main { width: 1600px; margin: 0 auto; padding: 76px 92px 86px; background: #f8fafc; }
+    .eyebrow { color: #b91c1c; font-size: 18px; font-weight: 800; letter-spacing: .13em; text-transform: uppercase; }
+    h1 { margin: 11px 0 12px; max-width: 1120px; font-family: Georgia, "Times New Roman", serif; font-size: 62px; line-height: 1.04; letter-spacing: -.035em; color: #102a43; }
+    .deck { max-width: 1180px; margin: 0; font-size: 24px; line-height: 1.48; color: #486581; }
+    .rule { width: 100%; height: 3px; margin: 42px 0 44px; background: linear-gradient(90deg, #b91c1c 0 18%, #b9c7d5 18%); }
+    h2 { margin: 52px 0 18px; font-size: 33px; line-height: 1.16; letter-spacing: -.025em; color: #102a43; }
+    h3 { margin: 31px 0 13px; color: #173b5b; font-size: 23px; }
+    p, li { font-size: 20px; line-height: 1.55; }
+    p { margin: 0 0 18px; }
+    ul { margin: 8px 0 20px; padding-left: 31px; }
+    li { margin: 8px 0; }
+    .callout { margin: 25px 0 30px; padding: 25px 29px; border-left: 7px solid #b91c1c; border-radius: 4px; background: #fff4f2; }
+    .callout p { margin: 0; font-weight: 650; color: #5a1d1a; }
+    .formula { margin: 20px 0; padding: 25px 30px; overflow-wrap: anywhere; border: 1px solid #d5e1ea; border-radius: 10px; background: #fff; color: #0f3655; font-family: "Cambria Math", Cambria, Georgia, serif; font-size: 28px; line-height: 1.55; text-align: center; }
+    .formula.small { font-size: 25px; }
+    .table-wrap { overflow: hidden; margin: 23px 0 28px; border: 1px solid #cbd8e3; border-radius: 11px; background: white; }
+    table { width: 100%; border-collapse: collapse; }
+    th { padding: 15px 17px; background: #173b5b; color: white; font-size: 16px; letter-spacing: .06em; text-align: left; text-transform: uppercase; }
+    td { padding: 17px; border-top: 1px solid #dbe5ec; vertical-align: top; font-size: 18px; line-height: 1.38; }
+    tr:nth-child(even) td { background: #f7fafc; }
+    td strong { color: #102a43; }
+    .math { font-family: "Cambria Math", Cambria, Georgia, serif; }
+    .path-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin: 18px 0 30px; }
+    .path-step { min-height: 138px; padding: 20px; border: 1px solid #d6e1ea; border-top: 7px solid #b91c1c; border-radius: 9px; background: #fff; }
+    .path-step .label { font-size: 15px; font-weight: 800; letter-spacing: .1em; color: #627d98; text-transform: uppercase; }
+    .path-step .value { margin-top: 8px; font-family: Georgia, serif; font-size: 37px; font-weight: 800; color: #102a43; }
+    .path-step .detail { margin-top: 5px; font-size: 16px; color: #486581; line-height: 1.35; }
+    .jack { margin-top: 53px; padding: 42px 45px 39px; border-radius: 16px; background: #102a43; color: #f0f7fb; }
+    .jack h2 { margin: 0 0 17px; color: #fff; font-family: Georgia, serif; font-size: 44px; }
+    .jack p, .jack li { color: #e0edf5; }
+    .jack strong { color: #f7cc6a; }
+    .jack .formula { border-color: #486581; background: #173b5b; color: #fff; }
+    footer { margin-top: 56px; padding-top: 22px; border-top: 1px solid #cbd8e3; color: #627d98; font-size: 15px; line-height: 1.45; }
+  </style>
+</head>
+<body>
+  <main>
+    <div class="eyebrow">USA · 2026 World Cup knockout path</div>
+    <h1>Most Likely Opponents Heatmap:<br>Statistical Proof</h1>
+    <p class="deck">A formal interpretation of the supplied USA heatmap snapshot. The values are Monte Carlo estimates conditional on the simulator’s assumptions and locked results—not guarantees about the actual tournament.</p>
+    <div class="rule"></div>
+
+    <div class="callout"><p>Core conclusion: the heatmap is mathematically internally consistent. It proves what this simulation estimates, not what the future must do.</p></div>
+
+    <h2>1. Probability-space definition</h2>
+    <p>Let <span class="math">A<sub>r</sub></span> denote the event that the USA appears in round <span class="math">r</span>, and let <span class="math">O<sub>r,t</sub></span> denote the event that its opponent in that round is team <span class="math">t</span>. With <span class="math">N = 10,000</span> simulated tournaments, the display estimates:</p>
+    <div class="formula">P̂(A<sub>r</sub>) = (1/N) Σ<sub>i=1</sub><sup>N</sup> 1(A<sub>r</sub><sup>(i)</sup>)</div>
+    <div class="formula">P̂(O<sub>r,t</sub>) = (1/N) Σ<sub>i=1</sub><sup>N</sup> 1(O<sub>r,t</sub><sup>(i)</sup>)</div>
+    <div class="formula">P̂(O<sub>r,t</sub> | A<sub>r</sub>) = P̂(O<sub>r,t</sub>) / P̂(A<sub>r</sub>)</div>
+    <p>Whenever the USA appears in a round, it has exactly one opponent. The matchup events are mutually exclusive and exhaustive:</p>
+    <div class="formula">A<sub>r</sub> = ⨆<sub>t</sub> O<sub>r,t</sub> &nbsp;&nbsp;⇒&nbsp;&nbsp; Σ<sub>t</sub> P(O<sub>r,t</sub>) = P(A<sub>r</sub>)</div>
+    <p>This is why every round’s exact matchup chances, including teams outside the top five, sum to its reach chance.</p>
+
+    <h2>2. What the simulator is modeling</h2>
+    <p>It locks completed results, simulates the remaining group matches, resolves qualification and the knockout bracket, then simulates every knockout match. Team strength is a hand-built composite of baseline/PELE information, PELE trend, pre-tournament title odds, host adjustment, confederation effects, historical World Cup effects, group finish, and round-specific adjustments.</p>
+    <p>For group matches, the adjusted rating gap creates a logistic home-win share:</p>
+    <div class="formula small">π<sub>h</sub> = logit<sup>−1</sup>((S<sub>h</sub> − S<sub>a</sub>) / 180), &nbsp;&nbsp; d = clip(0.24 − |S<sub>h</sub> − S<sub>a</sub>| / 2200, 0.05, 0.24)</div>
+    <div class="formula small">P(home win) = (1 − d)π<sub>h</sub>; &nbsp; P(draw) = d; &nbsp; P(away win) = (1 − d)(1 − π<sub>h</sub>)</div>
+    <p>For knockout matches, the adjusted share is translated to Poisson goal means; scorelines are sampled, with extra time and penalties resolving draws. The knockout win probability is therefore induced by the entire score-generating process rather than being identical to the logistic share.</p>
+
+    <h2>3. Proof at each round</h2>
+    <div class="table-wrap">
+      <table>
+        <thead><tr><th>Round</th><th>USA reach chance</th><th>Top matchup proof</th><th>Exact matchup chance</th></tr></thead>
+        <tbody>
+          <tr><td><strong>R32</strong></td><td>100.0%</td><td class="math">1.000 × 35.4%</td><td><strong>USA–Bosnia &amp; Herzegovina: 35.4%</strong></td></tr>
+          <tr><td><strong>R16</strong></td><td>75.1%</td><td class="math">.751 × .402 = .301902</td><td><strong>USA–Egypt: 30.2%</strong></td></tr>
+          <tr><td><strong>QF</strong></td><td>47.4%</td><td class="math">.474 × .386 = .182964</td><td><strong>USA–Spain: 18.3%</strong></td></tr>
+          <tr><td><strong>SF</strong></td><td>13.3%</td><td class="math">.133 × .300 = .039900</td><td><strong>USA–Germany: 4.0%</strong></td></tr>
+          <tr><td><strong>Final</strong></td><td>3.2%</td><td class="math">.032 × .269 = .008608</td><td><strong>USA–England: 0.9%</strong></td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p>Further checks from the supplied values: Belgium in the R16 is <span class="math">.751 × .158 = 11.9%</span>; Portugal in the QF is <span class="math">.474 × .128 = 6.1%</span>; France in the SF is <span class="math">.133 × .216 = 2.9%</span>; Argentina in the final is <span class="math">.032 × .159 = 0.51% ≈ 0.5%</span>.</p>
+
+    <h2>4. USA survival chain</h2>
+    <p>The reach values imply the following conditional advancement probabilities. These are averages over the opponent mixtures and bracket states that survive to each point; they are not fixed win probabilities against one named opponent.</p>
+    <div class="path-grid">
+      <div class="path-step"><div class="label">R32 → R16</div><div class="value">75.1%</div><div class="detail">P(R16 | R32)</div></div>
+      <div class="path-step"><div class="label">R16 → QF</div><div class="value">63.1%</div><div class="detail">47.4 ÷ 75.1</div></div>
+      <div class="path-step"><div class="label">QF → SF</div><div class="value">28.1%</div><div class="detail">13.3 ÷ 47.4</div></div>
+      <div class="path-step"><div class="label">SF → Final</div><div class="value">24.1%</div><div class="detail">3.2 ÷ 13.3</div></div>
+    </div>
+    <p>The critical drop is quarterfinal to semifinal. The model sees an achievable route into the R16, then a much more difficult elite-opponent section of the bracket.</p>
+
+    <h2>5. Route, exact chance, and odds</h2>
+    <ul>
+      <li><strong>Route:</strong> <span class="math">P(opponent | USA reaches the round)</span>.</li>
+      <li><strong>Exact chance:</strong> <span class="math">P(USA reaches the round and faces that opponent)</span>.</li>
+      <li><strong>Model-implied American odds:</strong> for <span class="math">p &lt; .5</span>, <span class="math">100(1-p)/p</span>.</li>
+    </ul>
+    <div class="formula small">Bosnia in R32: p = .354 ⇒ 100(.646/.354) = +182.5 ≈ +182</div>
+    <p>Those odds are derived from the simulated exact matchup chance. They are not a current sportsbook line.</p>
+
+    <h2>6. Statistical limits</h2>
+    <ul>
+      <li>At 10,000 trials, a 30.2% exact chance has roughly ±0.9 percentage points of 95% Monte Carlo sampling error; a 0.9% final matchup has roughly ±0.18 points.</li>
+      <li>Model uncertainty is larger and is not quantified: strength adjustments, historical effects, market weighting, and score-generation choices are assumptions.</li>
+      <li>This is a scenario engine, not a validated causal or Bayesian forecast. A PhD-grade predictive claim would require out-of-sample calibration, parameter estimation, sensitivity analysis, and uncertainty intervals for the model itself.</li>
+    </ul>
+
+    <section class="jack">
+      <h2>SO JACK CAN UNDERSTAND</h2>
+      <p>In this simulation, the USA is guaranteed to get into the Round of 32. After that, it gets harder every round.</p>
+      <ul>
+        <li>The USA makes the Round of 16 about <strong>3 times out of 4</strong>.</li>
+        <li>If it gets there, <strong>Egypt</strong> is the most likely opponent.</li>
+        <li>If it makes the quarterfinal, <strong>Spain</strong> is the most likely opponent.</li>
+        <li>If it makes the semifinal, <strong>Germany</strong> is the most likely opponent.</li>
+        <li>If it makes the final, <strong>England</strong> is the most likely opponent.</li>
+      </ul>
+      <p><strong>Route</strong> means: “If the USA gets this far, who will it probably play?”</p>
+      <p><strong>Exact chance</strong> means: “Out of 100 simulated tournaments, how often does this exact matchup happen?”</p>
+      <p>Example: USA–Spain in the quarterfinal is <strong>18.3%</strong>. The USA gets to the quarterfinal 47.4% of the time, and Spain is on the other side in 38.6% of those cases.</p>
+    </section>
+
+    <footer>Prepared from the USA Most Likely Opponents Heatmap values supplied in this conversation. The values are snapshot-specific and will change whenever locked results or simulator inputs change.</footer>
+  </main>
+</body>
+</html>

@@ -1,0 +1,21 @@
+{
+    "year": 2026,
+    "thirdPlaceQualifiers": 8,
+    "rankingRules": [
+        "points",
+        "headToHeadPoints",
+        "headToHeadGoalDifference",
+        "headToHeadGoalsScored",
+        "goalDifference",
+        "goalsScored",
+        "conductScore",
+        "fifaRanking"
+    ],
+    "thirdPlaceRankingRules": [
+        "points",
+        "goalDifference",
+        "goalsScored",
+        "conductScore",
+        "fifaRanking"
+    ]
+}

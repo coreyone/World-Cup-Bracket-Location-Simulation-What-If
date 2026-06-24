@@ -1,0 +1,36 @@
+{
+  "name": "world-cup-bracket-sim",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "fetch-odds": "node scripts/fetchKalshiOdds.js",
+    "build": "node scripts/fetchKalshiOdds.js && vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "test": "bun test"
+  },
+  "dependencies": {
+    "figma-squircle": "^1.1.0",
+    "framer-motion": "^12.40.0",
+    "lucide-react": "^1.21.0",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.2",
+    "eslint": "^10.5.0",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "eslint-plugin-react-refresh": "^0.5.3",
+    "flatted": "^3.4.2",
+    "globals": "^17.7.0",
+    "vite": "^8.0.16"
+  },
+  "overrides": {
+    "flatted": "3.4.2"
+  }
+}

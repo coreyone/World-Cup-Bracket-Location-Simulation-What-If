@@ -1,0 +1,1901 @@
+{
+  "ESP": {
+    "rank": 1,
+    "code": "ESP",
+    "country": "Spain",
+    "pele": 2084,
+    "oneYearChange": 9.2,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -13.8
+  },
+  "ARG": {
+    "rank": 2,
+    "code": "ARG",
+    "country": "Argentina",
+    "pele": 2067.2,
+    "oneYearChange": -20.3,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -0.2
+  },
+  "ENG": {
+    "rank": 3,
+    "code": "ENG",
+    "country": "England",
+    "pele": 2029.8,
+    "oneYearChange": 9,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 14.6
+  },
+  "FRA": {
+    "rank": 4,
+    "code": "FRA",
+    "country": "France",
+    "pele": 2025.9,
+    "oneYearChange": 19.4,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 11
+  },
+  "BRA": {
+    "rank": 5,
+    "code": "BRA",
+    "country": "Brazil",
+    "pele": 2001.3,
+    "oneYearChange": 2.5,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 8.6
+  },
+  "POR": {
+    "rank": 6,
+    "code": "POR",
+    "country": "Portugal",
+    "pele": 1968.8,
+    "oneYearChange": -3.6,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -32.5
+  },
+  "GER": {
+    "rank": 7,
+    "code": "GER",
+    "country": "Germany",
+    "pele": 1965.3,
+    "oneYearChange": -18.1,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 32.2
+  },
+  "NED": {
+    "rank": 8,
+    "code": "NED",
+    "country": "Netherlands",
+    "pele": 1952.3,
+    "oneYearChange": 3,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 11.1
+  },
+  "COL": {
+    "rank": 9,
+    "code": "COL",
+    "country": "Colombia",
+    "pele": 1945,
+    "oneYearChange": 9.9,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -9.8
+  },
+  "NOR": {
+    "rank": 10,
+    "code": "NOR",
+    "country": "Norway",
+    "pele": 1932.7,
+    "oneYearChange": 64.1,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 28.6
+  },
+  "URU": {
+    "rank": 11,
+    "code": "URU",
+    "country": "Uruguay",
+    "pele": 1922.2,
+    "oneYearChange": -16.1,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -11
+  },
+  "ECU": {
+    "rank": 12,
+    "code": "ECU",
+    "country": "Ecuador",
+    "pele": 1919.4,
+    "oneYearChange": 19.5,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 4.5
+  },
+  "SEN": {
+    "rank": 13,
+    "code": "SEN",
+    "country": "Senegal",
+    "pele": 1901.2,
+    "oneYearChange": 88.9,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 65.4
+  },
+  "ITA": {
+    "rank": 14,
+    "code": "ITA",
+    "country": "Italy",
+    "pele": 1896.8,
+    "oneYearChange": -32.5,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -20.3
+  },
+  "TUR": {
+    "rank": 15,
+    "code": "TUR",
+    "country": "Turkey",
+    "pele": 1890.5,
+    "oneYearChange": 48.3,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 57.9
+  },
+  "BEL": {
+    "rank": 16,
+    "code": "BEL",
+    "country": "Belgium",
+    "pele": 1890,
+    "oneYearChange": 10.1,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -2.1
+  },
+  "SUI": {
+    "rank": 17,
+    "code": "SUI",
+    "country": "Switzerland",
+    "pele": 1883.2,
+    "oneYearChange": 55.6,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 11.5
+  },
+  "CRO": {
+    "rank": 18,
+    "code": "CRO",
+    "country": "Croatia",
+    "pele": 1876.1,
+    "oneYearChange": 6.5,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -17
+  },
+  "JPN": {
+    "rank": 19,
+    "code": "JPN",
+    "country": "Japan",
+    "pele": 1872.1,
+    "oneYearChange": 10.7,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 14.8
+  },
+  "DEN": {
+    "rank": 20,
+    "code": "DEN",
+    "country": "Denmark",
+    "pele": 1864.4,
+    "oneYearChange": 9.4,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -13.1
+  },
+  "MAR": {
+    "rank": 21,
+    "code": "MAR",
+    "country": "Morocco",
+    "pele": 1859.9,
+    "oneYearChange": -13.8,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -31.9
+  },
+  "PAR": {
+    "rank": 22,
+    "code": "PAR",
+    "country": "Paraguay",
+    "pele": 1849.6,
+    "oneYearChange": 14.8,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -9
+  },
+  "MEX": {
+    "rank": 23,
+    "code": "MEX",
+    "country": "Mexico",
+    "pele": 1844.8,
+    "oneYearChange": 10.1,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 2.9
+  },
+  "AUT": {
+    "rank": 24,
+    "code": "AUT",
+    "country": "Austria",
+    "pele": 1830.3,
+    "oneYearChange": -19.8,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -14.2
+  },
+  "NGA": {
+    "rank": 25,
+    "code": "NGA",
+    "country": "Nigeria",
+    "pele": 1816,
+    "oneYearChange": 97.5,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 82.9
+  },
+  "CAN": {
+    "rank": 26,
+    "code": "CAN",
+    "country": "Canada",
+    "pele": 1815.2,
+    "oneYearChange": 1.2,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -13.6
+  },
+  "RUS": {
+    "rank": 27,
+    "code": "RUS",
+    "country": "Russia",
+    "pele": 1808.7,
+    "oneYearChange": -12.1,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -12.9
+  },
+  "SCO": {
+    "rank": 28,
+    "code": "SCO",
+    "country": "Scotland",
+    "pele": 1805.6,
+    "oneYearChange": 16.8,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 10.3
+  },
+  "USA": {
+    "rank": 29,
+    "code": "USA",
+    "country": "United States",
+    "pele": 1804.8,
+    "oneYearChange": -8.1,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 12.8
+  },
+  "ALG": {
+    "rank": 30,
+    "code": "ALG",
+    "country": "Algeria",
+    "pele": 1797.4,
+    "oneYearChange": 8.3,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 21.2
+  },
+  "GRE": {
+    "rank": 31,
+    "code": "GRE",
+    "country": "Greece",
+    "pele": 1791.3,
+    "oneYearChange": -36.6,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -33.4
+  },
+  "SWE": {
+    "rank": 32,
+    "code": "SWE",
+    "country": "Sweden",
+    "pele": 1788.7,
+    "oneYearChange": -27.6,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -15.3
+  },
+  "POL": {
+    "rank": 33,
+    "code": "POL",
+    "country": "Poland",
+    "pele": 1779.3,
+    "oneYearChange": 14.6,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 6.6
+  },
+  "CIV": {
+    "rank": 34,
+    "code": "CIV",
+    "country": "Cote d'Ivoire",
+    "pele": 1778.9,
+    "oneYearChange": 43.6,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 44.8
+  },
+  "UKR": {
+    "rank": 35,
+    "code": "UKR",
+    "country": "Ukraine",
+    "pele": 1778.9,
+    "oneYearChange": -38.2,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -10.7
+  },
+  "SRB": {
+    "rank": 36,
+    "code": "SRB",
+    "country": "Serbia",
+    "pele": 1776.2,
+    "oneYearChange": -55.7,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -25
+  },
+  "CHI": {
+    "rank": 37,
+    "code": "CHI",
+    "country": "Chile",
+    "pele": 1773.1,
+    "oneYearChange": -3.3,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 11.5
+  },
+  "VEN": {
+    "rank": 38,
+    "code": "VEN",
+    "country": "Venezuela",
+    "pele": 1769.3,
+    "oneYearChange": -25.8,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 3.4
+  },
+  "AUS": {
+    "rank": 39,
+    "code": "AUS",
+    "country": "Australia",
+    "pele": 1765.6,
+    "oneYearChange": 23.7,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -5.6
+  },
+  "CZE": {
+    "rank": 40,
+    "code": "CZE",
+    "country": "Czechia",
+    "pele": 1764.6,
+    "oneYearChange": -8.2,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -6
+  },
+  "HUN": {
+    "rank": 41,
+    "code": "HUN",
+    "country": "Hungary",
+    "pele": 1763.9,
+    "oneYearChange": 2.5,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 7.6
+  },
+  "EGY": {
+    "rank": 42,
+    "code": "EGY",
+    "country": "Egypt",
+    "pele": 1762.9,
+    "oneYearChange": 28.9,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 25.2
+  },
+  "IRL": {
+    "rank": 43,
+    "code": "IRL",
+    "country": "Rep. Ireland",
+    "pele": 1757.7,
+    "oneYearChange": 35.5,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 54.2
+  },
+  "WAL": {
+    "rank": 44,
+    "code": "WAL",
+    "country": "Wales",
+    "pele": 1753.7,
+    "oneYearChange": -20.7,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -12.8
+  },
+  "KOR": {
+    "rank": 45,
+    "code": "KOR",
+    "country": "South Korea",
+    "pele": 1753.5,
+    "oneYearChange": 11,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -15.7
+  },
+  "COD": {
+    "rank": 46,
+    "code": "COD",
+    "country": "Dem. Rep. Congo",
+    "pele": 1743.8,
+    "oneYearChange": 61.9,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 54.4
+  },
+  "PER": {
+    "rank": 47,
+    "code": "PER",
+    "country": "Peru",
+    "pele": 1740.7,
+    "oneYearChange": -21,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -8.5
+  },
+  "PAN": {
+    "rank": 48,
+    "code": "PAN",
+    "country": "Panama",
+    "pele": 1739.1,
+    "oneYearChange": 13.3,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 10.7
+  },
+  "KOS": {
+    "rank": 49,
+    "code": "KOS",
+    "country": "Kosovo",
+    "pele": 1737.1,
+    "oneYearChange": 80.3,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 60.2
+  },
+  "SVN": {
+    "rank": 50,
+    "code": "SVN",
+    "country": "Slovenia",
+    "pele": 1733.6,
+    "oneYearChange": -34.3,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -19.7
+  },
+  "SVK": {
+    "rank": 51,
+    "code": "SVK",
+    "country": "Slovakia",
+    "pele": 1725.8,
+    "oneYearChange": -19.4,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -38.6
+  },
+  "IRN": {
+    "rank": 52,
+    "code": "IRN",
+    "country": "Iran",
+    "pele": 1720,
+    "oneYearChange": -38.2,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -1.9
+  },
+  "MLI": {
+    "rank": 53,
+    "code": "MLI",
+    "country": "Mali",
+    "pele": 1713.6,
+    "oneYearChange": 1.5,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 6.6
+  },
+  "ROU": {
+    "rank": 54,
+    "code": "ROU",
+    "country": "Romania",
+    "pele": 1711.2,
+    "oneYearChange": -28.8,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -8.1
+  },
+  "CMR": {
+    "rank": 55,
+    "code": "CMR",
+    "country": "Cameroon",
+    "pele": 1709.2,
+    "oneYearChange": 10.3,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 13.4
+  },
+  "UZB": {
+    "rank": 56,
+    "code": "UZB",
+    "country": "Uzbekistan",
+    "pele": 1708.9,
+    "oneYearChange": 29.9,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 13.5
+  },
+  "GEO": {
+    "rank": 57,
+    "code": "GEO",
+    "country": "Georgia",
+    "pele": 1705.4,
+    "oneYearChange": -47.1,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -40.5
+  },
+  "TUN": {
+    "rank": 58,
+    "code": "TUN",
+    "country": "Tunisia",
+    "pele": 1704.5,
+    "oneYearChange": 26.6,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 5.1
+  },
+  "ALB": {
+    "rank": 59,
+    "code": "ALB",
+    "country": "Albania",
+    "pele": 1700.8,
+    "oneYearChange": -2.5,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 4.5
+  },
+  "BIH": {
+    "rank": 60,
+    "code": "BIH",
+    "country": "Bosnia/Herzegovina",
+    "pele": 1697.3,
+    "oneYearChange": 59.7,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 61.6
+  },
+  "ISR": {
+    "rank": 61,
+    "code": "ISR",
+    "country": "Israel",
+    "pele": 1688.7,
+    "oneYearChange": 20.6,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -13.2
+  },
+  "NIR": {
+    "rank": 62,
+    "code": "NIR",
+    "country": "Northern Ireland",
+    "pele": 1683.1,
+    "oneYearChange": 36.1,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 17.1
+  },
+  "GHA": {
+    "rank": 63,
+    "code": "GHA",
+    "country": "Ghana",
+    "pele": 1678.7,
+    "oneYearChange": 27.7,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 14.7
+  },
+  "RSA": {
+    "rank": 64,
+    "code": "RSA",
+    "country": "South Africa",
+    "pele": 1677.3,
+    "oneYearChange": -14.8,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -18.4
+  },
+  "BFA": {
+    "rank": 65,
+    "code": "BFA",
+    "country": "Burkina Faso",
+    "pele": 1675.4,
+    "oneYearChange": 17.1,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 10.2
+  },
+  "CRC": {
+    "rank": 66,
+    "code": "CRC",
+    "country": "Costa Rica",
+    "pele": 1672.3,
+    "oneYearChange": -35.8,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -29.5
+  },
+  "ISL": {
+    "rank": 67,
+    "code": "ISL",
+    "country": "Iceland",
+    "pele": 1667.4,
+    "oneYearChange": 35.5,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 3.8
+  },
+  "JOR": {
+    "rank": 68,
+    "code": "JOR",
+    "country": "Jordan",
+    "pele": 1657.6,
+    "oneYearChange": 15.2,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 12.9
+  },
+  "BOL": {
+    "rank": 69,
+    "code": "BOL",
+    "country": "Bolivia",
+    "pele": 1656.5,
+    "oneYearChange": 7.5,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -16.8
+  },
+  "IRQ": {
+    "rank": 70,
+    "code": "IRQ",
+    "country": "Iraq",
+    "pele": 1646.3,
+    "oneYearChange": 50.5,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 39.3
+  },
+  "MKD": {
+    "rank": 71,
+    "code": "MKD",
+    "country": "North Macedonia",
+    "pele": 1638.8,
+    "oneYearChange": -30.1,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -42.6
+  },
+  "HON": {
+    "rank": 72,
+    "code": "HON",
+    "country": "Honduras",
+    "pele": 1632.2,
+    "oneYearChange": 4.1,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 2.7
+  },
+  "GUI": {
+    "rank": 73,
+    "code": "GUI",
+    "country": "Guinea",
+    "pele": 1632,
+    "oneYearChange": 19.5,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 0.2
+  },
+  "HAI": {
+    "rank": 74,
+    "code": "HAI",
+    "country": "Haiti",
+    "pele": 1631.3,
+    "oneYearChange": 3.6,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 24.7
+  },
+  "NZL": {
+    "rank": 75,
+    "code": "NZL",
+    "country": "New Zealand",
+    "pele": 1630.1,
+    "oneYearChange": -4.3,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -1.5
+  },
+  "KSA": {
+    "rank": 76,
+    "code": "KSA",
+    "country": "Saudi Arabia",
+    "pele": 1628,
+    "oneYearChange": 3.4,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -18.2
+  },
+  "FIN": {
+    "rank": 77,
+    "code": "FIN",
+    "country": "Finland",
+    "pele": 1626,
+    "oneYearChange": -4.7,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -10.4
+  },
+  "CPV": {
+    "rank": 78,
+    "code": "CPV",
+    "country": "Cape Verde",
+    "pele": 1619,
+    "oneYearChange": 30.9,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 0.9
+  },
+  "ANG": {
+    "rank": 79,
+    "code": "ANG",
+    "country": "Angola",
+    "pele": 1616.1,
+    "oneYearChange": -18.8,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -4.3
+  },
+  "JAM": {
+    "rank": 80,
+    "code": "JAM",
+    "country": "Jamaica",
+    "pele": 1611.2,
+    "oneYearChange": -25.3,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -32.3
+  },
+  "GUA": {
+    "rank": 81,
+    "code": "GUA",
+    "country": "Guatemala",
+    "pele": 1602.2,
+    "oneYearChange": -0.4,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 8.7
+  },
+  "UAE": {
+    "rank": 82,
+    "code": "UAE",
+    "country": "Unit. Arab Emir.",
+    "pele": 1599.8,
+    "oneYearChange": -4.4,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -9.4
+  },
+  "GAM": {
+    "rank": 83,
+    "code": "GAM",
+    "country": "Gambia",
+    "pele": 1599.3,
+    "oneYearChange": 43,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -2.1
+  },
+  "BLR": {
+    "rank": 84,
+    "code": "BLR",
+    "country": "Belarus",
+    "pele": 1589.6,
+    "oneYearChange": 7.4,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 26.9
+  },
+  "BUL": {
+    "rank": 85,
+    "code": "BUL",
+    "country": "Bulgaria",
+    "pele": 1584.5,
+    "oneYearChange": 0.1,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 20.2
+  },
+  "SUR": {
+    "rank": 86,
+    "code": "SUR",
+    "country": "Suriname",
+    "pele": 1579,
+    "oneYearChange": 29.1,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 1.9
+  },
+  "CUW": {
+    "rank": 87,
+    "code": "CUW",
+    "country": "Curacao",
+    "pele": 1572.4,
+    "oneYearChange": 67.5,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 18.3
+  },
+  "BEN": {
+    "rank": 88,
+    "code": "BEN",
+    "country": "Benin",
+    "pele": 1571.8,
+    "oneYearChange": 2.1,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -21.8
+  },
+  "LUX": {
+    "rank": 89,
+    "code": "LUX",
+    "country": "Luxembourg",
+    "pele": 1566.7,
+    "oneYearChange": -15.2,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 2.3
+  },
+  "GAB": {
+    "rank": 90,
+    "code": "GAB",
+    "country": "Gabon",
+    "pele": 1566.1,
+    "oneYearChange": -26.1,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -31
+  },
+  "NIG": {
+    "rank": 91,
+    "code": "NIG",
+    "country": "Niger",
+    "pele": 1561.6,
+    "oneYearChange": 33,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 19.4
+  },
+  "KAZ": {
+    "rank": 92,
+    "code": "KAZ",
+    "country": "Kazakhstan",
+    "pele": 1559.6,
+    "oneYearChange": 15.7,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 42
+  },
+  "MNE": {
+    "rank": 93,
+    "code": "MNE",
+    "country": "Montenegro",
+    "pele": 1555.3,
+    "oneYearChange": -55.3,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -24.5
+  },
+  "PLE": {
+    "rank": 94,
+    "code": "PLE",
+    "country": "Palestine",
+    "pele": 1551.7,
+    "oneYearChange": 24.6,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 10.4
+  },
+  "SYR": {
+    "rank": 95,
+    "code": "SYR",
+    "country": "Syria",
+    "pele": 1549,
+    "oneYearChange": 27.2,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 36.4
+  },
+  "LBY": {
+    "rank": 96,
+    "code": "LBY",
+    "country": "Libya",
+    "pele": 1548.3,
+    "oneYearChange": 9.9,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -16.7
+  },
+  "SLE": {
+    "rank": 97,
+    "code": "SLE",
+    "country": "Sierra Leone",
+    "pele": 1542.5,
+    "oneYearChange": 10.9,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -6.8
+  },
+  "QAT": {
+    "rank": 98,
+    "code": "QAT",
+    "country": "Qatar",
+    "pele": 1541.8,
+    "oneYearChange": -24.2,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -15.5
+  },
+  "UGA": {
+    "rank": 99,
+    "code": "UGA",
+    "country": "Uganda",
+    "pele": 1539.8,
+    "oneYearChange": 8.6,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -10.1
+  },
+  "ZAM": {
+    "rank": 100,
+    "code": "ZAM",
+    "country": "Zambia",
+    "pele": 1539.7,
+    "oneYearChange": -21.6,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -11.9
+  },
+  "TRI": {
+    "rank": 101,
+    "code": "TRI",
+    "country": "Trinidad & Tobago",
+    "pele": 1538,
+    "oneYearChange": -25.8,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -5.2
+  },
+  "OMA": {
+    "rank": 102,
+    "code": "OMA",
+    "country": "Oman",
+    "pele": 1537.5,
+    "oneYearChange": -35.9,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -14.9
+  },
+  "COM": {
+    "rank": 103,
+    "code": "COM",
+    "country": "Comoros",
+    "pele": 1536.9,
+    "oneYearChange": -6.9,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -2.4
+  },
+  "DOM": {
+    "rank": 104,
+    "code": "DOM",
+    "country": "Dominican Rep.",
+    "pele": 1535.7,
+    "oneYearChange": -4.4,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -0.4
+  },
+  "TOG": {
+    "rank": 105,
+    "code": "TOG",
+    "country": "Togo",
+    "pele": 1534.5,
+    "oneYearChange": -5.7,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -2.1
+  },
+  "CHN": {
+    "rank": 106,
+    "code": "CHN",
+    "country": "China",
+    "pele": 1534.3,
+    "oneYearChange": 14.3,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 16.7
+  },
+  "MOZ": {
+    "rank": 107,
+    "code": "MOZ",
+    "country": "Mozambique",
+    "pele": 1529.5,
+    "oneYearChange": -41.7,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -25.1
+  },
+  "MAD": {
+    "rank": 108,
+    "code": "MAD",
+    "country": "Madagascar",
+    "pele": 1527.3,
+    "oneYearChange": 36.6,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 11.4
+  },
+  "ZIM": {
+    "rank": 109,
+    "code": "ZIM",
+    "country": "Zimbabwe",
+    "pele": 1526.7,
+    "oneYearChange": -26.8,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 4.8
+  },
+  "EQG": {
+    "rank": 110,
+    "code": "EQG",
+    "country": "Equatorial Guinea",
+    "pele": 1526,
+    "oneYearChange": -58.1,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -35.9
+  },
+  "ARM": {
+    "rank": 111,
+    "code": "ARM",
+    "country": "Armenia",
+    "pele": 1522,
+    "oneYearChange": -8.5,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -18.9
+  },
+  "TAN": {
+    "rank": 112,
+    "code": "TAN",
+    "country": "Tanzania",
+    "pele": 1518.8,
+    "oneYearChange": -35.3,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -18.3
+  },
+  "KEN": {
+    "rank": 113,
+    "code": "KEN",
+    "country": "Kenya",
+    "pele": 1518.6,
+    "oneYearChange": -18.5,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -2.1
+  },
+  "NCA": {
+    "rank": 114,
+    "code": "NCA",
+    "country": "Nicaragua",
+    "pele": 1509,
+    "oneYearChange": -23.8,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -13.7
+  },
+  "SDN": {
+    "rank": 115,
+    "code": "SDN",
+    "country": "Sudan",
+    "pele": 1505.9,
+    "oneYearChange": -50.7,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -36.1
+  },
+  "SLV": {
+    "rank": 116,
+    "code": "SLV",
+    "country": "El Salvador",
+    "pele": 1502.6,
+    "oneYearChange": -43.3,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -32
+  },
+  "FRO": {
+    "rank": 117,
+    "code": "FRO",
+    "country": "Faroe Islands",
+    "pele": 1496.6,
+    "oneYearChange": 65.1,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 56.9
+  },
+  "AZE": {
+    "rank": 118,
+    "code": "AZE",
+    "country": "Azerbaijan",
+    "pele": 1496.3,
+    "oneYearChange": -2.4,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 0.9
+  },
+  "MTN": {
+    "rank": 119,
+    "code": "MTN",
+    "country": "Mauritania",
+    "pele": 1496.3,
+    "oneYearChange": -10.6,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -7.3
+  },
+  "LVA": {
+    "rank": 120,
+    "code": "LVA",
+    "country": "Latvia",
+    "pele": 1492.1,
+    "oneYearChange": 7.6,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -5.6
+  },
+  "RWA": {
+    "rank": 121,
+    "code": "RWA",
+    "country": "Rwanda",
+    "pele": 1489.9,
+    "oneYearChange": 7.6,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -7.9
+  },
+  "EST": {
+    "rank": 122,
+    "code": "EST",
+    "country": "Estonia",
+    "pele": 1488.1,
+    "oneYearChange": -24.7,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -3.2
+  },
+  "IDN": {
+    "rank": 123,
+    "code": "IDN",
+    "country": "Indonesia",
+    "pele": 1486.9,
+    "oneYearChange": 17.5,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 6.8
+  },
+  "CYP": {
+    "rank": 124,
+    "code": "CYP",
+    "country": "Cyprus",
+    "pele": 1485.8,
+    "oneYearChange": 25.9,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 2.5
+  },
+  "LTU": {
+    "rank": 125,
+    "code": "LTU",
+    "country": "Lithuania",
+    "pele": 1484.4,
+    "oneYearChange": 5.7,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 3.4
+  },
+  "BHR": {
+    "rank": 126,
+    "code": "BHR",
+    "country": "Bahrain",
+    "pele": 1482.4,
+    "oneYearChange": -45.4,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -18.7
+  },
+  "BDI": {
+    "rank": 127,
+    "code": "BDI",
+    "country": "Burundi",
+    "pele": 1480.5,
+    "oneYearChange": 6.8,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 11.8
+  },
+  "GNB": {
+    "rank": 128,
+    "code": "GNB",
+    "country": "Guinea-Bissau",
+    "pele": 1477.5,
+    "oneYearChange": -11.8,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -1.1
+  },
+  "LBR": {
+    "rank": 129,
+    "code": "LBR",
+    "country": "Liberia",
+    "pele": 1475.5,
+    "oneYearChange": 24.3,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 24.9
+  },
+  "THA": {
+    "rank": 130,
+    "code": "THA",
+    "country": "Thailand",
+    "pele": 1475.1,
+    "oneYearChange": 9,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 23.3
+  },
+  "ETH": {
+    "rank": 131,
+    "code": "ETH",
+    "country": "Ethiopia",
+    "pele": 1468.8,
+    "oneYearChange": -1.4,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 14
+  },
+  "GUY": {
+    "rank": 132,
+    "code": "GUY",
+    "country": "Guyana",
+    "pele": 1457.1,
+    "oneYearChange": 19.9,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 14.7
+  },
+  "LBN": {
+    "rank": 133,
+    "code": "LBN",
+    "country": "Lebanon",
+    "pele": 1455,
+    "oneYearChange": -3.8,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -5.2
+  },
+  "CUB": {
+    "rank": 134,
+    "code": "CUB",
+    "country": "Cuba",
+    "pele": 1449.8,
+    "oneYearChange": -45.2,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -20.3
+  },
+  "NAM": {
+    "rank": 135,
+    "code": "NAM",
+    "country": "Namibia",
+    "pele": 1447.7,
+    "oneYearChange": -36.2,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -41
+  },
+  "PUR": {
+    "rank": 136,
+    "code": "PUR",
+    "country": "Puerto Rico",
+    "pele": 1445.4,
+    "oneYearChange": 5.5,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 1.4
+  },
+  "CGO": {
+    "rank": 137,
+    "code": "CGO",
+    "country": "Rep, Congo",
+    "pele": 1443.4,
+    "oneYearChange": 7.1,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 2.2
+  },
+  "VIE": {
+    "rank": 138,
+    "code": "VIE",
+    "country": "Vietnam",
+    "pele": 1439.8,
+    "oneYearChange": -16.8,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 6.7
+  },
+  "TJK": {
+    "rank": 139,
+    "code": "TJK",
+    "country": "Tajikistan",
+    "pele": 1439.7,
+    "oneYearChange": -2.1,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 4.4
+  },
+  "MLT": {
+    "rank": 140,
+    "code": "MLT",
+    "country": "Malta",
+    "pele": 1438.1,
+    "oneYearChange": 0.7,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 2.7
+  },
+  "PRK": {
+    "rank": 141,
+    "code": "PRK",
+    "country": "North Korea",
+    "pele": 1435.6,
+    "oneYearChange": -16.8,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -7.5
+  },
+  "CTA": {
+    "rank": 142,
+    "code": "CTA",
+    "country": "Cent. Afr. Rep.",
+    "pele": 1434,
+    "oneYearChange": -35.2,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -5.1
+  },
+  "KGZ": {
+    "rank": 143,
+    "code": "KGZ",
+    "country": "Kyrgyzstan",
+    "pele": 1432.6,
+    "oneYearChange": -15.9,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -5.3
+  },
+  "BOT": {
+    "rank": 144,
+    "code": "BOT",
+    "country": "Botswana",
+    "pele": 1428.4,
+    "oneYearChange": -45.8,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -35.7
+  },
+  "MDA": {
+    "rank": 145,
+    "code": "MDA",
+    "country": "Moldova",
+    "pele": 1419.1,
+    "oneYearChange": -47.3,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -16.3
+  },
+  "KUW": {
+    "rank": 146,
+    "code": "KUW",
+    "country": "Kuwait",
+    "pele": 1414.6,
+    "oneYearChange": -16.1,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 6.4
+  },
+  "MWI": {
+    "rank": 147,
+    "code": "MWI",
+    "country": "Malawi",
+    "pele": 1400.3,
+    "oneYearChange": -27.3,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -25.5
+  },
+  "MAS": {
+    "rank": 148,
+    "code": "MAS",
+    "country": "Malaysia",
+    "pele": 1393.5,
+    "oneYearChange": 8,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -10
+  },
+  "TKM": {
+    "rank": 149,
+    "code": "TKM",
+    "country": "Turkmenistan",
+    "pele": 1353.4,
+    "oneYearChange": -2.8,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -27.9
+  },
+  "LES": {
+    "rank": 150,
+    "code": "LES",
+    "country": "Lesotho",
+    "pele": 1349.5,
+    "oneYearChange": -47.8,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -6.7
+  },
+  "PHI": {
+    "rank": 151,
+    "code": "PHI",
+    "country": "Philippines",
+    "pele": 1339.2,
+    "oneYearChange": 26.5,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 20.8
+  },
+  "YEM": {
+    "rank": 152,
+    "code": "YEM",
+    "country": "Yemen",
+    "pele": 1336.8,
+    "oneYearChange": 39.6,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 28
+  },
+  "VIN": {
+    "rank": 153,
+    "code": "VIN",
+    "country": "St. Vincent/Grenadines",
+    "pele": 1328,
+    "oneYearChange": 28.8,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 31.3
+  },
+  "SSD": {
+    "rank": 154,
+    "code": "SSD",
+    "country": "South Sudan",
+    "pele": 1324,
+    "oneYearChange": -24.1,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -26.5
+  },
+  "CHA": {
+    "rank": 155,
+    "code": "CHA",
+    "country": "Chad",
+    "pele": 1321.6,
+    "oneYearChange": -56.1,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -55.8
+  },
+  "NCL": {
+    "rank": 156,
+    "code": "NCL",
+    "country": "New Caledonia",
+    "pele": 1316.1,
+    "oneYearChange": 7.9,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 10.2
+  },
+  "SWZ": {
+    "rank": 157,
+    "code": "SWZ",
+    "country": "Eswatini",
+    "pele": 1310.5,
+    "oneYearChange": -57.1,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -41.6
+  },
+  "SOM": {
+    "rank": 158,
+    "code": "SOM",
+    "country": "Somalia",
+    "pele": 1306.9,
+    "oneYearChange": 27.3,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 34.7
+  },
+  "ERI": {
+    "rank": 159,
+    "code": "ERI",
+    "country": "Eritrea",
+    "pele": 1306.7,
+    "oneYearChange": 35.8,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 37.1
+  },
+  "IND": {
+    "rank": 160,
+    "code": "IND",
+    "country": "India",
+    "pele": 1304.9,
+    "oneYearChange": -10.1,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -24.5
+  },
+  "GRN": {
+    "rank": 161,
+    "code": "GRN",
+    "country": "Grenada",
+    "pele": 1304.2,
+    "oneYearChange": 26,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -4.7
+  },
+  "HKG": {
+    "rank": 162,
+    "code": "HKG",
+    "country": "Hong Kong",
+    "pele": 1298.6,
+    "oneYearChange": -16.6,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -36.4
+  },
+  "AND": {
+    "rank": 163,
+    "code": "AND",
+    "country": "Andorra",
+    "pele": 1297.7,
+    "oneYearChange": 23.3,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -2.6
+  },
+  "BER": {
+    "rank": 164,
+    "code": "BER",
+    "country": "Bermuda",
+    "pele": 1295.1,
+    "oneYearChange": -5.2,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -31
+  },
+  "MRI": {
+    "rank": 165,
+    "code": "MRI",
+    "country": "Mauritius",
+    "pele": 1283.1,
+    "oneYearChange": -2.1,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 6.8
+  },
+  "SGP": {
+    "rank": 166,
+    "code": "SGP",
+    "country": "Singapore",
+    "pele": 1276.7,
+    "oneYearChange": 53.9,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 43.8
+  },
+  "ARU": {
+    "rank": 167,
+    "code": "ARU",
+    "country": "Aruba",
+    "pele": 1253.6,
+    "oneYearChange": 29.3,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 36.6
+  },
+  "STP": {
+    "rank": 168,
+    "code": "STP",
+    "country": "Sao Tome/Principe",
+    "pele": 1235.5,
+    "oneYearChange": 3.2,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 9.8
+  },
+  "BLZ": {
+    "rank": 169,
+    "code": "BLZ",
+    "country": "Belize",
+    "pele": 1227.6,
+    "oneYearChange": 2.8,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 17
+  },
+  "SKN": {
+    "rank": 170,
+    "code": "SKN",
+    "country": "St. Kitts & Nevis",
+    "pele": 1224.7,
+    "oneYearChange": -46.5,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -21.7
+  },
+  "LCA": {
+    "rank": 171,
+    "code": "LCA",
+    "country": "Saint Lucia",
+    "pele": 1211.3,
+    "oneYearChange": -32,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -29
+  },
+  "FIJ": {
+    "rank": 172,
+    "code": "FIJ",
+    "country": "Fiji",
+    "pele": 1206.8,
+    "oneYearChange": -47.3,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -25.6
+  },
+  "BRB": {
+    "rank": 173,
+    "code": "BRB",
+    "country": "Barbados",
+    "pele": 1193.6,
+    "oneYearChange": -29.8,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -18.5
+  },
+  "MSR": {
+    "rank": 174,
+    "code": "MSR",
+    "country": "Montserrat",
+    "pele": 1187,
+    "oneYearChange": -2.3,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -6.5
+  },
+  "DJI": {
+    "rank": 175,
+    "code": "DJI",
+    "country": "Djibouti",
+    "pele": 1185.5,
+    "oneYearChange": 11.6,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 20.9
+  },
+  "GIB": {
+    "rank": 176,
+    "code": "GIB",
+    "country": "Gibraltar",
+    "pele": 1184.7,
+    "oneYearChange": -19.1,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -9.3
+  },
+  "TAH": {
+    "rank": 177,
+    "code": "TAH",
+    "country": "Tahiti",
+    "pele": 1179.2,
+    "oneYearChange": -7,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -4.6
+  },
+  "ATG": {
+    "rank": 178,
+    "code": "ATG",
+    "country": "Antigua & Barbuda",
+    "pele": 1178.7,
+    "oneYearChange": -7.6,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -11.2
+  },
+  "PNG": {
+    "rank": 179,
+    "code": "PNG",
+    "country": "Papua New Guinea",
+    "pele": 1175.9,
+    "oneYearChange": 3.7,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 5.3
+  },
+  "LIE": {
+    "rank": 180,
+    "code": "LIE",
+    "country": "Liechtenstein",
+    "pele": 1172,
+    "oneYearChange": -10.7,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 1.1
+  },
+  "SOL": {
+    "rank": 181,
+    "code": "SOL",
+    "country": "Solomon Islands",
+    "pele": 1165.5,
+    "oneYearChange": -39.5,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -38.9
+  },
+  "MYA": {
+    "rank": 182,
+    "code": "MYA",
+    "country": "Myanmar",
+    "pele": 1157.7,
+    "oneYearChange": 22,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 11.8
+  },
+  "AFG": {
+    "rank": 183,
+    "code": "AFG",
+    "country": "Afghanistan",
+    "pele": 1154.5,
+    "oneYearChange": -25.4,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -32.2
+  },
+  "DMA": {
+    "rank": 184,
+    "code": "DMA",
+    "country": "Dominica",
+    "pele": 1148.6,
+    "oneYearChange": -8,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -5.8
+  },
+  "VAN": {
+    "rank": 185,
+    "code": "VAN",
+    "country": "Vanuatu",
+    "pele": 1136.8,
+    "oneYearChange": 32,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 34
+  },
+  "BAN": {
+    "rank": 186,
+    "code": "BAN",
+    "country": "Bangladesh",
+    "pele": 1131.8,
+    "oneYearChange": 14.1,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 18.9
+  },
+  "TPE": {
+    "rank": 187,
+    "code": "TPE",
+    "country": "Taiwan",
+    "pele": 1120,
+    "oneYearChange": -57.3,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -34.9
+  },
+  "SEY": {
+    "rank": 188,
+    "code": "SEY",
+    "country": "Seychelles",
+    "pele": 1096.7,
+    "oneYearChange": -15.6,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -0.9
+  },
+  "CAM": {
+    "rank": 189,
+    "code": "CAM",
+    "country": "Cambodia",
+    "pele": 1096.1,
+    "oneYearChange": 10.8,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 9.2
+  },
+  "SMR": {
+    "rank": 190,
+    "code": "SMR",
+    "country": "San Marino",
+    "pele": 1086.5,
+    "oneYearChange": -16.7,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -15.1
+  },
+  "CAY": {
+    "rank": 191,
+    "code": "CAY",
+    "country": "Cayman Islands",
+    "pele": 1079.2,
+    "oneYearChange": -15.6,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -11.1
+  },
+  "SRI": {
+    "rank": 192,
+    "code": "SRI",
+    "country": "Sri Lanka",
+    "pele": 1068.4,
+    "oneYearChange": 53,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 50
+  },
+  "NEP": {
+    "rank": 193,
+    "code": "NEP",
+    "country": "Nepal",
+    "pele": 1065.6,
+    "oneYearChange": -6.6,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 2.3
+  },
+  "PAK": {
+    "rank": 194,
+    "code": "PAK",
+    "country": "Pakistan",
+    "pele": 1055.6,
+    "oneYearChange": -6.1,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -4.7
+  },
+  "VGB": {
+    "rank": 195,
+    "code": "VGB",
+    "country": "Brit. Virgin Islands",
+    "pele": 1025.3,
+    "oneYearChange": 73.7,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 60.9
+  },
+  "LAO": {
+    "rank": 196,
+    "code": "LAO",
+    "country": "Laos",
+    "pele": 1014.2,
+    "oneYearChange": 31,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 13.5
+  },
+  "BAH": {
+    "rank": 197,
+    "code": "BAH",
+    "country": "Bahamas",
+    "pele": 1009.2,
+    "oneYearChange": -84.2,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -61.1
+  },
+  "MDV": {
+    "rank": 198,
+    "code": "MDV",
+    "country": "Maldives",
+    "pele": 1008.3,
+    "oneYearChange": -15,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -16
+  },
+  "MNG": {
+    "rank": 199,
+    "code": "MNG",
+    "country": "Mongolia",
+    "pele": 1002.1,
+    "oneYearChange": 3.5,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 2.2
+  },
+  "GUM": {
+    "rank": 200,
+    "code": "GUM",
+    "country": "Guam",
+    "pele": 999.7,
+    "oneYearChange": 10.2,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 9.8
+  },
+  "VIR": {
+    "rank": 201,
+    "code": "VIR",
+    "country": "U.S. Virgin Islands",
+    "pele": 953.3,
+    "oneYearChange": 11.6,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 7.6
+  },
+  "AIA": {
+    "rank": 202,
+    "code": "AIA",
+    "country": "Anguilla",
+    "pele": 941.6,
+    "oneYearChange": -4.2,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 7
+  },
+  "TLS": {
+    "rank": 203,
+    "code": "TLS",
+    "country": "Timor-Leste",
+    "pele": 934.7,
+    "oneYearChange": 9.2,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -6.7
+  },
+  "TCA": {
+    "rank": 204,
+    "code": "TCA",
+    "country": "Turks and Caicos",
+    "pele": 918.3,
+    "oneYearChange": -1.5,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 1.2
+  },
+  "MAC": {
+    "rank": 205,
+    "code": "MAC",
+    "country": "Macau",
+    "pele": 910.4,
+    "oneYearChange": -1.2,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -1.5
+  },
+  "SAM": {
+    "rank": 206,
+    "code": "SAM",
+    "country": "Samoa",
+    "pele": 906.8,
+    "oneYearChange": 6.3,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 4.2
+  },
+  "BRU": {
+    "rank": 207,
+    "code": "BRU",
+    "country": "Brunei",
+    "pele": 887.2,
+    "oneYearChange": -32.8,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -31.9
+  },
+  "BHU": {
+    "rank": 208,
+    "code": "BHU",
+    "country": "Bhutan",
+    "pele": 835,
+    "oneYearChange": 12.6,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 15.4
+  },
+  "COK": {
+    "rank": 209,
+    "code": "COK",
+    "country": "Cook Islands",
+    "pele": 814.2,
+    "oneYearChange": 2.5,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 2.1
+  },
+  "TGA": {
+    "rank": 210,
+    "code": "TGA",
+    "country": "Tonga",
+    "pele": 780.2,
+    "oneYearChange": 5.6,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": 3.7
+  },
+  "ASA": {
+    "rank": 211,
+    "code": "ASA",
+    "country": "American Samoa",
+    "pele": 715.4,
+    "oneYearChange": -11.7,
+    "latestQuarter": "2026Q2",
+    "recentQuarterChange": -12.4
+  }
+}
